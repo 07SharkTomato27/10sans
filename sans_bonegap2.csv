@@ -22,7 +22,7 @@
 0,ADD,Total,$Total,25,,
 0,RND,RndSpeed,3,,,
 0,SUB,RndSpeed,$RndSpeed,1,,
-0,MUL,RndSpeed,$RndSpeed,2,,
+0,MUL,RndSpeed,$RndSpeed,2,,,
 0,JMPNE,SkipZeroSpeed,$HeightB,40,,
 0,SET,RndSpeed,0,,,
 0,:SkipZeroSpeed,,,,,
