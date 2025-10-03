@@ -63,6 +63,6 @@
 0,:BlasterLoop,,,,,
 0,SUB,LoopB,$LoopB,1,,,,,
 0,GetHeartPos,HeartX,HeartY,,,,,
-0,GasterBlaster,1,$HeartX,0,$HeartX,$HeartY,90,0.4,0.4
+0,GasterBlaster,1,$HeartX,200,$HeartX,$HeartY,90,0.4,0.4
 1,JMPNZ,BlasterLoop,$LoopB,,,,,
 7,EndAttack,,,,,
