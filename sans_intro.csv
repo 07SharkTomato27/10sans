@@ -67,7 +67,7 @@
 1.2,sansslam,2,,,,,,,
 0,SansBody,HandLeft,,,,,,,
 0,BoneStab,2,35,0.3,3.4,,,,
-1.4,sansslam,1,,,,,,,
+1.2,sansslam,1,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0,BoneStab,1,35,0.3,3.2,,,,
 0.1,SansSlam,0,,,,,,,
@@ -90,6 +90,7 @@
 3,SansHead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,
+
 
 
 
