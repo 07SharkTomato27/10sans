@@ -70,7 +70,7 @@
 1.4,sansslam,1,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0,BoneStab,1,35,0.3,3.2,,,,
-1.6,sansslam,0,,,,,,,
+1.6,SansSlam,0,,,,,,,
 0,SansBody,HandRight,,,,,,,
 0,BoneStab,0,35,0.3,3,,,,
 0,HeartMode,0,,,,,,,
@@ -90,6 +90,7 @@
 3,SansHead,Default,,,,,,,
 0,SansText,here we go.,,,,,,,
 0,EndAttack,,,,,,,,
+
 
 
 
