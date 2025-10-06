@@ -22,7 +22,7 @@
 0,Sound,Flash,,,,,,,
 0.1,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
-0,HeartTeleport,262,240,,,,,,
+0,HeartTeleport,282,290,,,,,,
 0,SansSlam,2,,,,,,,
 0,SansX,320,,,,,,,
 0.03333,BoneStab,2,48,0.6,1,,,,
@@ -43,6 +43,7 @@
 0,ADD,Ang,$Ang,180,,,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0
 1.7,EndAttack,,,,,,,
+
 
 
 
