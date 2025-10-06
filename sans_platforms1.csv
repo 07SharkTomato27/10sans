@@ -16,7 +16,7 @@
 0,Sound,Flash,,,,,,,
 0,HeartTeleport,391,376,,,,,,
 0,SansSlam,0,,,,,,,
-0.03333,BoneStab,0,200,0.6,1,,,,
+0.03333,BoneStab,0,40,0.6,1,,,,
 0,BoneStab,1,48,0.6,1,,,,
 0.9,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
@@ -25,7 +25,7 @@
 0,HeartTeleport,282,290,,,,,,
 0,SansSlam,2,,,,,,,
 0,SansX,320,,,,,,,
-0.03333,BoneStab,2,48,0.6,1,,,,
+0.03333,BoneStab,2,230,0.6,1,,,,
 0.7,HeartMode,0,,,,,,,
 0,SET,gt,0,,,,,,
 0,SET,gin,1,,,,,,
@@ -43,6 +43,7 @@
 0,ADD,Ang,$Ang,180,,,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0
 1.7,EndAttack,,,,,,,
+
 
 
 
