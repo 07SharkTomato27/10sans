@@ -2,7 +2,6 @@
 0,HeartTeleport,320,304,,,,,,
 0,HeartMode,1,,,,,,
 0,SansBody,HandDown,,,,,,,
-0,SansHead,BlueEye,,,,,,,
 0,SansSlam,1,,,,,,,
 0.5,SansBody,HandUp,,,,,,,
 0,BoneStab,1,54,0.16666,2.5,,,,
@@ -38,6 +37,7 @@
 1.5,BoneV,133,257,95,0,90,,
 0.7,BoneV,508,276,110,2,240,,
 2.5,EndAttack,,,,,,,
+
 
 
 
