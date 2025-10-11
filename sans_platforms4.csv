@@ -7,7 +7,7 @@
 0.2,BoneStab,3,35,0.3,9999,,,,
 1,sansslam,2,,,,,,,
 0,SansBody,HandLeft,,,,,,,
-0,BoneStab,2,35,0.3,3.9999,,,,
+0,BoneStab,2,35,0.3,9999,,,,
 1,sansslam,1,,,,,,,
 0,SansBody,HandDown,,,,,,,
 0,BoneStab,1,35,0.3,9999,,,,
@@ -36,6 +36,7 @@
 0,ADD,gin,$gin,0.015,,,,,
 0.06666,JMPL,21,$gt,190,,,,,
 7.3,EndAttack,,,,,,,
+
 
 
 
