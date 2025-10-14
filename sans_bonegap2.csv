@@ -2,6 +2,7 @@
 0,HeartTeleport,320,376,,,
 0,HeartMode,0,,,,
 0,TLPause,,,,,
+0.125,GasterBlaster,1,0,0,321,166,90,0,10000
 0,SET,Total,0,,,
 0,:Begin,,,,,
 0,JMPNL,End,$Total,400,,
@@ -68,3 +69,4 @@
 0,JMPABS,Begin,,,,
 0,:End,,,,,
 15,EndAttack,,,,,
+
