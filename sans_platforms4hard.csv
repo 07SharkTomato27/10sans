@@ -36,7 +36,7 @@
 0,ADD,gt,$gt,$gin,,,,,
 0,ADD,gin,$gin,0.015,,,,,
 0,ADD,bd,$bd,0.015,,,,,
-0,JMPNL,38,$bd,$btime,,,,,
+0,JMPNL,36,$bd,$btime,,,,,
 0.0666,JMPL,23,$gt,180,,,,,
 0,JMP,33,,,,,,
 0,boneV,320,308.5,100,3,200,2
@@ -62,6 +62,7 @@
 0,GasterBlaster,0,160,0,320,240,60,0.5,0.3
 0,GasterBlaster,0,480,480,320,240,240,0.5,0.3
 3,EndAttack,,,,,,,
+
 
 
 
