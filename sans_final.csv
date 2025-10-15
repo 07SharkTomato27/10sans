@@ -187,7 +187,7 @@
 0,ADD,gt,$gt,$gin,,,,,,
 0,JMPNL,189,$gin,4,,,,,,
 0,ADD,gin,$gin,0.015,,,,,,
-0.06666,JMPL,266,$gt,195,,,,,,
+0.06666,JMPL,173,$gt,195,,,,,,
 0,SansSweat,2,,,,,,,,
 0,SET,gt,0,,,,,,,
 0,SET,gin,9,,,,,,,
@@ -206,8 +206,9 @@
 0,ADD,Ang,$Ang,180,,,,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0,
 0,ADD,gt,$gt,$gin,,,,,,
-0,JMPNL,211,$gin,10,,,,,,
+0,JMPNL,210,$gin,10,,,,,,
 0,ADD,gin,$gin,0.01,,,,,,
-0.05,JMPL,287,$gt,1000,,,,,,
+0.05,JMPL,194,$gt,1000,,,,,,
 2.4,EndAttack,,,,,,,,,
+
 
