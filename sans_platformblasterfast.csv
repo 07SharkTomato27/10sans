@@ -37,6 +37,7 @@
 0.06666,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,304,,,,,,
 1.4,SineBones,20,-24,360,25,,,,
 0,GasterBlaster,1,0,0,189,246,0,3,0.26666
 0,GasterBlaster,1,0,0,259,166,90,3,0.26666
@@ -87,3 +88,4 @@
 0.2,BoneV,128,240,3000,0,280,1
 0.2,BoneV,503,240,3000,2,280,2
 2,EndAttack,,,,,,,,
+
